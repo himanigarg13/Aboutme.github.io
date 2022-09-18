@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    padding: 30px;
+    text-align: center;
+    background: rgb(17 143 158);
+    color: #fff;
+}
+
+header h1{
+    font-size: 40px;
+}
+
+h2{
+    padding: 30px;
+    font-size: 30px;
+    color: rgb(17 143 158);
+}
+
+p{
+    margin: 40px;
+    font-size: 20px;
+    line-height: 110%;
+    word-spacing: 20%;
+   
+}
+
